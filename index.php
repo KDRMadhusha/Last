@@ -6989,7 +6989,7 @@
               <div class="owl-carousel">
                 <div class="post-card">
                   <div class="post-card__image">
-                    <a href="#"><img src="images/posts/post1.jpg" width=400px height=200px alt="" /></a>
+                    <a href="#"><img src="images/posts/post1.jpg"  height=160px alt="" /></a>
                   </div>
                   <div class="post-card__info">
                    
@@ -7265,14 +7265,12 @@
                       </div>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-1.jpg" alt=""
+                          ><img src="images/products/product-co1.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
-                          <a href="product.php"
-                            >Electric Planer Brandix KL370090G 300 Watts</a
-                          >
+                        <a href="product.php"> Coconut Milk</a>
                         </div>
                         <div class="product-card__rating">
                           <div class="rating">
@@ -7411,19 +7409,10 @@
                             9 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                      
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                       
                         <div class="product-card__prices">$749.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -7432,12 +7421,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                         
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -7487,13 +7471,13 @@
                       </div>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-2.jpg" alt=""
+                          ><img src="images/products/product-co2.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
                           <a href="product.php"
-                            >Undefined Tool IRadix DPS3000SY 2700 Watts</a
+                            >Coconut Shell</a
                           >
                         </div>
                         <div class="product-card__rating">
@@ -7635,19 +7619,10 @@
                             11 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                       
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                        
                         <div class="product-card__prices">$1,019.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -7656,12 +7631,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                          
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -7704,13 +7674,13 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-3.jpg" alt=""
+                          ><img src="images/products/product-hn5.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
                           <a href="product.php"
-                            >Drill Screwdriver Brandix ALX7054 200 Watts</a
+                            >Mandala Arts</a
                           >
                         </div>
                         <div class="product-card__rating">
@@ -7850,19 +7820,10 @@
                             9 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                       
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                       
                         <div class="product-card__prices">$850.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -7871,12 +7832,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                         
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -7934,13 +7890,13 @@
                       </div>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-4.jpg" alt=""
+                          ><img src="images/products/product-hn4.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
                           <a href="product.php"
-                            >Drill Series 3 Brandix KSR4590PQS 1500 Watts</a
+                            >Table decos</a
                           >
                         </div>
                         <div class="product-card__rating">
@@ -8078,19 +8034,10 @@
                             7 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                        
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                       
                         <div class="product-card__prices">
                           <span class="product-card__new-price">$949.00</span>
                           <span class="product-card__old-price">$1189.00</span>
@@ -8102,12 +8049,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                         
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -8150,13 +8092,13 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-5.jpg" alt=""
+                          ><img src="images/products/product-fo2.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
                           <a href="product.php"
-                            >Brandix Router Power Tool 2017ERXPK</a
+                            >Fresh Milk</a
                           >
                         </div>
                         <div class="product-card__rating">
@@ -8296,19 +8238,10 @@
                             9 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                        
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                        
                         <div class="product-card__prices">$1,700.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -8317,12 +8250,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                           
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -8365,13 +8293,13 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-6.jpg" alt=""
+                          ><img src="images/products/product-fo1.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
                           <a href="product.php"
-                            >Brandix Drilling Machine DM2019KW4 4kW</a
+                            >Soya Meat</a
                           >
                         </div>
                         <div class="product-card__rating">
@@ -8509,19 +8437,10 @@
                             7 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                      
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                        
                         <div class="product-card__prices">$3,199.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -8530,12 +8449,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                         
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -8586,12 +8500,12 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-7.jpg" alt=""
+                          ><img src="images/products/product-16.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
-                          <a href="product.php">Brandix Pliers</a>
+                          <a href="product.php">Fresh Mango</a>
                         </div>
                         <div class="product-card__rating">
                           <div class="rating">
@@ -8726,19 +8640,10 @@
                             4 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                       
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                       
                         <div class="product-card__prices">$24.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -8747,12 +8652,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                         
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -8795,12 +8695,12 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-8.jpg" alt=""
+                          ><img src="images/products/product-4.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
-                          <a href="product.php">Water Hose 40cm</a>
+                          <a href="product.php">Java Apple</a>
                         </div>
                         <div class="product-card__rating">
                           <div class="rating">
@@ -8935,19 +8835,10 @@
                             4 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                        
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                         
                         <div class="product-card__prices">$15.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -8956,12 +8847,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                           
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
@@ -9004,12 +8890,12 @@
                       </button>
                       <div class="product-card__image">
                         <a href="product.php"
-                          ><img src="images/products/product-9.jpg" alt=""
+                          ><img src="images/products/product-5.jpg" alt=""
                         /></a>
                       </div>
                       <div class="product-card__info">
                         <div class="product-card__name">
-                          <a href="product.php">Spanner Wrench</a>
+                          <a href="product.php">Pineapple</a>
                         </div>
                         <div class="product-card__rating">
                           <div class="rating">
@@ -9148,19 +9034,10 @@
                             9 Reviews
                           </div>
                         </div>
-                        <ul class="product-card__features-list">
-                          <li>Speed: 750 RPM</li>
-                          <li>Power Source: Cordless-Electric</li>
-                          <li>Battery Cell Type: Lithium</li>
-                          <li>Voltage: 20 Volts</li>
-                          <li>Battery Capacity: 2 Ah</li>
-                        </ul>
+                        
                       </div>
                       <div class="product-card__actions">
-                        <div class="product-card__availability">
-                          Availability:
-                          <span class="text-success">In Stock</span>
-                        </div>
+                       
                         <div class="product-card__prices">$19.00</div>
                         <div class="product-card__buttons">
                           <button
@@ -9169,12 +9046,7 @@
                           >
                             Order Now
                           </button>
-                          <button
-                            class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                            type="button"
-                          >
-                            Order Now
-                          </button>
+                          
                           <button
                             class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                             type="button"
