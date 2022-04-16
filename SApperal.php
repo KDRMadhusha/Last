@@ -933,7 +933,7 @@
                       <div class="departments__links-wrapper">
                         <ul class="departments__links">
                           <li class="departments__item">
-                            <a href="SFruit.php"
+                            <a href="SSpice.php"
                               >Fruits Nuts & Vegitable
                               <svg
                                 class="departments__link-arrow"
@@ -1060,7 +1060,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SSpice.php"
+                            <a href="#"
                               >Spices & Essential Oils
                               <svg
                                 class="departments__link-arrow"
@@ -1142,7 +1142,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SFood.php"
+                            <a href="#"
                               >Food Feed & Beverages
                               <svg
                                 class="departments__link-arrow"
@@ -1251,7 +1251,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SApperal.php"
+                            <a href="#"
                               >Apperal & Textile
                               <svg
                                 class="departments__link-arrow"
@@ -1364,7 +1364,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SGems.php"
+                            <a href="#"
                               >Gems Diamond & Jewellery
 
                               <svg
@@ -1477,7 +1477,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SCoconut.php"
+                            <a href="#"
                               >Coconut & Coconut Based Product
                               <svg
                                 class="departments__link-arrow"
@@ -1551,7 +1551,7 @@
                             </div>
                           </li>
                           <li class="departments__item">
-                            <a href="SHand.php"
+                            <a href="#"
                               >HandCraft
                               <svg
                                 class="departments__link-arrow"
@@ -1624,7 +1624,7 @@
                           <li
                             class="departments__item departments__item--menu"
                           >
-                            <a href="SOther.php"
+                            <a href="#"
                               >Other
                               <svg
                                 class="departments__link-arrow"
@@ -1817,9 +1817,8 @@
                       </li>
                     </ul>
                   </div>
-                 
                   <!-- .nav-links / end -->
-                 <!-- .post button -->
+                   <!-- .post button -->
 
                 <div class="nav-panel__indicators">
                   
@@ -1907,7 +1906,7 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Casual T-Shirts</a>
+                                    <a href="#">Casual T-Shirt</a>
                                   
                                   </li>
                                   <li
@@ -1979,9 +1978,11 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Baby panty</a>
+                                    <a href="#">Baby Panty</a>
                                    
-                                  </li>              
+                                  </li>
+                                  
+                                 
                                 </ul>
                               </div>
                             </div>
@@ -2065,7 +2066,11 @@
                                 </svg>
                                     <a href="#">Shorts</a>
                                     
-                                  </li>                         
+                                  </li>
+                                  
+                                  
+                                  
+                                 
                                 </ul>
                               </div>
                             </div>
@@ -2165,7 +2170,9 @@
                                     <a href="#">Party Wear</a>
                                     
                                   </li>
-                                </ul>
+                                  
+                               
+                              </ul>
                               </div>
                             </div>
                           </div>
@@ -2181,13 +2188,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-1.jpg" alt=""
+                            ><img src="images/products/product-ap1.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Electric Planer Brandix KL370090G 300 Watts</a
+                              >Tops</a
                             >
                           </div>
                           <div class="widget-products__prices">$749.00</div>
@@ -2196,13 +2203,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-2.jpg" alt=""
+                            ><img src="images/products/product-ap2.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Undefined Tool IRadix DPS3000SY 2700 Watts</a
+                              >Hats</a
                             >
                           </div>
                           <div class="widget-products__prices">$1,019.00</div>
@@ -2211,13 +2218,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-3.jpg" alt=""
+                            ><img src="images/products/product-ap3.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Drill Screwdriver Brandix ALX7054 200 Watts</a
+                              >Shirts</a
                             >
                           </div>
                           <div class="widget-products__prices">$850.00</div>
@@ -2226,13 +2233,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-4.jpg" alt=""
+                            ><img src="images/products/product-ap4.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Drill Series 3 Brandix KSR4590PQS 1500 Watts</a
+                              >Blouses</a
                             >
                           </div>
                           <div class="widget-products__prices">
@@ -2248,13 +2255,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-5.jpg" alt=""
+                            ><img src="images/products/product-ap5.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Brandix Router Power Tool 2017ERXPK</a
+                              >Party Wear</a
                             >
                           </div>
                           <div class="widget-products__prices">$1,700.00</div>
@@ -2284,7 +2291,7 @@
                              SELLER
                             </button>
 
-                          <a href="BApperal.php">
+                          <a href="BFruit.php">
                             <button
                             type="button"
                               class="layout-switcher__button"
@@ -2306,7 +2313,7 @@
                     data-layout="grid-3-sidebar"
                     data-with-features="true"
                    >
-                   <div class="products-list__body">
+                    <div class="products-list__body">
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -2326,13 +2333,13 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-16.jpg" alt=""
+                              ><img src="images/products/product-ap2.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Fresh Mango</h4></a
+                                ><h4>Ladies Hats</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2475,13 +2482,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Item Number: 7501RPM</li>
-                              <li>Color: Yellow</li>
+                              <li>Item Number: 7501TDE</li>
+                              <li>Color:White</li>
                               
-                              <li>Weight: 10 kg</li>
+                              <li>Weight: 5 kg</li>
                              
                               <li>Size of carton: 60x30x15</li>
-                              <li>Pieces of carton: 6 </li>
+                              <li>Pieces of carton: 50 </li>
                               
                             </ul>
                           </div>
@@ -2489,7 +2496,7 @@
                             
                             <div class="product-card__prices">$1499.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -2545,13 +2552,13 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-2.jpg" alt=""
+                              ><img src="images/products/product-ap3.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Cashew Nuts</h4>
+                                ><h4>Shirts</h4>
                                        </a
                               >
                             </div>
@@ -2695,13 +2702,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 4993GDS</li>
-                              <li>Color: Brown</li>
+                            <li>Item Number: 5693GDS</li>
+                              <li>Color: Blue/Red</li>
                               
-                              <li>Weight: 10 kg</li>
+                              <li>Weight: 5 kg</li>
                              
                               <li>Size of carton: 60x30x15</li>
-                              <li>Pieces of carton: 20 </li>
+                              <li>Pieces of carton:100  </li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
@@ -2711,7 +2718,7 @@
                             </div>
                             <div class="product-card__prices">$1,019.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -2760,13 +2767,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-3.jpg" alt=""
+                              ><img src="images/products/product-ap6.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Cucumber</h4></a
+                                ><h4>Ladies Jeens</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2909,13 +2916,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 6453HDR</li>
-                              <li>Color: Green</li>
+                            <li>Item Number: 6455YFD</li>
+                              <li>Color: Black</li>
                               
                               <li>Weight: 15 kg</li>
                              
                               <li>Size of carton: 30x30x15</li>
-                              <li>Pieces of carton: 20 </li>
+                              <li>Pieces of carton: 50 </li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
@@ -2925,7 +2932,7 @@
                             </div>
                             <div class="product-card__prices">$850.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -2981,13 +2988,13 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-4.jpg" alt=""
+                              ><img src="images/products/product-ap4.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Java Apple</h4></a
+                                ><h4>Blouses</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3130,8 +3137,8 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 534GDR</li>
-                              <li>Color: Red</li>
+                            <li>Item Number: 5346HGF</li>
+                              <li>Color: Red/Blue/Green/Yellow</li>
                               
                               <li>Weight: 5 kg</li>
                              
@@ -3154,7 +3161,7 @@
                               >
                             </div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -3203,13 +3210,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-5.jpg" alt=""
+                              ><img src="images/products/product-ap8.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Pineapple</h4></a
+                                ><h4>Baby Shoes</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3352,13 +3359,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 554YDF</li>
-                              <li>Color: Orange yellow</li>
+                            <li>Item Number: 5339YDF</li>
+                              <li>Color: Pink/Blue</li>
                               
-                              <li>Weight: 50 kg</li>
+                              <li>Weight: 10 kg</li>
                              
                               <li>Size of carton: 30x30x30</li>
-                              <li>Pieces of carton: 30 </li>
+                              <li>Pieces of carton: 100 </li>
                             </ul>
                             </ul>
                           </div>
@@ -3369,7 +3376,7 @@
                             </div>
                             <div class="product-card__prices">$1,700.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -3418,13 +3425,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-6.jpg" alt=""
+                              ><img src="images/products/product-ap5.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Pumpkin</h4></a
+                                ><h4>Party Wear</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3567,13 +3574,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 542HDR</li>
-                              <li>Color: Orange</li>
+                            <li>Item Number: 8542HDR</li>
+                              <li>Color: Blue/Orange</li>
                               
                               <li>Weight: 25 kg</li>
                              
                               <li>Size of carton: 30x30x15</li>
-                              <li>Pieces of carton: 10 </li>
+                              <li>Pieces of carton: 50 </li>
                             </ul>
                             </ul>
                           </div>
@@ -3584,7 +3591,7 @@
                             </div>
                             <div class="product-card__prices">$3,199.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -3621,7 +3628,6 @@
                           </div>
                         </div>
                       </div>
-                     
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -3641,13 +3647,13 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-16.jpg" alt=""
+                              ><img src="images/products/product-ap2.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Fresh Mango</h4></a
+                                ><h4>Ladies Hats</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3790,24 +3796,21 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Item Number: 7501RPM</li>
-                              <li>Color: Yellow</li>
+                              <li>Item Number: 7501TDE</li>
+                              <li>Color:White</li>
                               
-                              <li>Weight: 10 kg</li>
+                              <li>Weight: 5 kg</li>
                              
                               <li>Size of carton: 60x30x15</li>
-                              <li>Pieces of carton: 6 </li>
+                              <li>Pieces of carton: 50 </li>
                               
                             </ul>
                           </div>
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
+                            
                             <div class="product-card__prices">$1499.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -3863,14 +3866,14 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-2.jpg" alt=""
+                              ><img src="images/products/product-ap3.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Cashew Nuts</h4>
-                                   </a
+                                ><h4>Shirts</h4>
+                                       </a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -4013,13 +4016,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 4993GDS</li>
-                              <li>Color: Brown</li>
+                            <li>Item Number: 5693GDS</li>
+                              <li>Color: Blue/Red</li>
                               
-                              <li>Weight: 10 kg</li>
+                              <li>Weight: 5 kg</li>
                              
                               <li>Size of carton: 60x30x15</li>
-                              <li>Pieces of carton: 20 </li>
+                              <li>Pieces of carton:100  </li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
@@ -4029,7 +4032,7 @@
                             </div>
                             <div class="product-card__prices">$1,019.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -4078,13 +4081,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-3.jpg" alt=""
+                              ><img src="images/products/product-ap6.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Cucumber</h4></a
+                                ><h4>Ladies Jeens</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -4227,13 +4230,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 6453HDR</li>
-                              <li>Color: Green</li>
+                            <li>Item Number: 6455YFD</li>
+                              <li>Color: Black</li>
                               
                               <li>Weight: 15 kg</li>
                              
                               <li>Size of carton: 30x30x15</li>
-                              <li>Pieces of carton: 20 </li>
+                              <li>Pieces of carton: 50 </li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
@@ -4243,7 +4246,7 @@
                             </div>
                             <div class="product-card__prices">$850.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -4299,13 +4302,13 @@
                           </div>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-4.jpg" alt=""
+                              ><img src="images/products/product-ap4.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>A</h4></a
+                                ><h4>Blouses</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -4448,8 +4451,8 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 534GDR</li>
-                              <li>Color: Red</li>
+                            <li>Item Number: 5346HGF</li>
+                              <li>Color: Red/Blue/Green/Yellow</li>
                               
                               <li>Weight: 5 kg</li>
                              
@@ -4472,7 +4475,7 @@
                               >
                             </div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -4521,13 +4524,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-5.jpg" alt=""
+                              ><img src="images/products/product-ap8.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Pineapple</h4></a
+                                ><h4>Baby Shoes</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -4670,13 +4673,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 554YDF</li>
-                              <li>Color: Orange yellow</li>
+                            <li>Item Number: 5339YDF</li>
+                              <li>Color: Pink/Blue</li>
                               
-                              <li>Weight: 50 kg</li>
+                              <li>Weight: 10 kg</li>
                              
                               <li>Size of carton: 30x30x30</li>
-                              <li>Pieces of carton: 30 </li>
+                              <li>Pieces of carton: 100 </li>
                             </ul>
                             </ul>
                           </div>
@@ -4687,7 +4690,7 @@
                             </div>
                             <div class="product-card__prices">$1,700.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -4736,13 +4739,13 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.php"
-                              ><img src="images/products/product-6.jpg" alt=""
+                              ><img src="images/products/product-ap5.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>Pumpkin</h4></a
+                                ><h4>Party Wear</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -4885,13 +4888,13 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                            <li>Item Number: 542HDR</li>
-                              <li>Color: Orange</li>
+                            <li>Item Number: 8542HDR</li>
+                              <li>Color: Blue/Orange</li>
                               
                               <li>Weight: 25 kg</li>
                              
                               <li>Size of carton: 30x30x15</li>
-                              <li>Pieces of carton: 10 </li>
+                              <li>Pieces of carton: 50 </li>
                             </ul>
                             </ul>
                           </div>
@@ -4902,7 +4905,7 @@
                             </div>
                             <div class="product-card__prices">$3,199.00</div>
                             <div class="product-card__buttons">
-                              <button
+                               <button
                                 class="btn btn-primary product-card__addtocart"
                                 type="button"
                               ><a href="order_now.php" class="indicator__button">
@@ -4938,7 +4941,10 @@
                             </div>
                           </div>
                         </div>
-                      </div> 
+                      </div>
+                     
+                     
+                      
                                          
                                                               
                       
