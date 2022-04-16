@@ -6989,16 +6989,12 @@
               <div class="owl-carousel">
                 <div class="post-card">
                   <div class="post-card__image">
-                    <a href="#"><img src="images/posts/post-1.jpg" alt="" /></a>
+                    <a href="#"><img src="images/posts/post1.jpg" width=400px height=200px alt="" /></a>
                   </div>
                   <div class="post-card__info">
-                    <div class="post-card__category">
-                      <a href="#">Special Offers</a>
-                    </div>
+                   
                     <div class="post-card__name">
-                      <a href="#"
-                        >Philosophy That Addresses Topics Such As Goodness</a
-                      >
+                      <p>Sonia shanel</p>
                     </div>
                     <div class="post-card__date">October 19, 2019</div>
                     <div class="post-card__content">
