@@ -4377,7 +4377,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h4>A</h4></a
+                                ><h4>Java Apple</h4></a
                               >
                             </div>
                             <div class="product-card__rating">
