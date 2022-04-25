@@ -2022,6 +2022,21 @@
                         />
                       </div>
                       <div class="form-group">
+                        <label>Category</label>
+                        <select class="form-control"  id="category">
+                          <option value="Select From Here">Select From Here</option>
+                          <option value="Fruits Nuts & Vegetables">Fruits Nuts & Vegetables</option>
+                          <option value="Spices & Essential Oils">Spices & Essential Oils</option>
+                          <option value="Food Feed & Beverages">Food Feed & Beverages</option>
+                          <option value="Apperal & Textile">Apperal & Textile</option>
+                          <option value="Gems Diamond & Jewellery">Gems Diamond & Jewellery</option>
+                          <option value="Coconut & Coconut Based Product">Coconut & Coconut Based Product</option>
+                          <option value="HandCraft">HandCraft</option>
+                          <option value="Other">Other</option>
+                          >
+                        </select>                    
+                      </div>
+                      <div class="form-group">
                         <label>Description</label>
                         <input
                           name="Description"
@@ -2030,12 +2045,6 @@
                           placeholder="Enter Description"
                           id="desc"
                         />
-
-
-                        <!-- <small class="form-text text-muted" 
-                          >-->
-                          <!--<a href="#">Forgotten Password</a></small 
-                        >-->
                       </div>
 
                       <div class="form-group">
@@ -2056,7 +2065,7 @@
                         </td>
                        
                         <td >  
-                          <select id="payment" name="payment">
+                          <select  class="form-control" id="payment" name="payment">
                             <option value="select">Select Method</option>
                             <option value="LS">LS</option>
                             <option value="FOB">FOB</option>
@@ -2087,37 +2096,14 @@
                         </table>
                       </div>
                     </div>
-
-                    
-                      <!-- <div class="form-group">
-                        <div class="form-check">
-                          <span class="form-check-input input-check"
-                            ><span class="input-check__body"
-                              ><input
-                                class="input-check__input"
-                                type="checkbox"
-                                id="login-remember"
-                              />
-                              <span class="input-check__box"></span>
-                              <svg
-                                class="input-check__icon"
-                                width="9px"
-                                height="7px"
-                              >
-                                <use
-                                  xlink:href="images/sprite.svg#check-9x7"
-                                ></use>
-                              </svg> </span></span
-                          ><label class="form-check-label" for="login-remember"
-                            >Remember Me</label
-                          >
-                        </div>
-                      </div> -->
-
-                     
-                      <button type="submit" class="btn btn-primary mt-4">
-                        Submit
-                      </button>
+                    <div class="form-group">
+                       <button
+                      type="submit"
+                      class="btn btn-primary btn-xl btn-block"
+                    >
+                     Submit
+                    </button> 
+                      </div> 
                     </form>
                   </div>
                 </div>
