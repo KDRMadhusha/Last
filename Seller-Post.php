@@ -2067,22 +2067,7 @@
                       <div class="form-group">
                         <label>Photos</label>
                         <input type="file" id="files" name="files" multiple onchange=""><br><br>
-                        
-                        <table>
-                          <!-- <tr><img id="output" height="100px" width="100px"/></tr>
-                          <tr><img id="output" height="100px" width="100px"/></tr>
-                          <tr><img id="output" height="100px" width="100px"/></tr>
-                          <tr><img id="output" height="100px" width="100px"/></tr>
-                          <tr><img id="output" height="100px" width="100px"/></tr> -->
-                         
-
-                        </table>
-                        <!-- <input 
-                          name="Photos"
-                          type="Photos"
-                          class="form-control"
-                          placeholder="Enter Item Name"
-                        /> -->
+                                       
                       </div>
 
                       <div class="form-group">

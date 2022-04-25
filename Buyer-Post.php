@@ -2105,77 +2105,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 d-flex mt-4 mt-md-0">
-                <!-- <div class="card flex-grow-1 mb-0">
-                  <div class="card-body">
-                    <h3 class="card-title">Register</h3>
-                    <form method="POST" action="Rauthentication.php">
-                      <div class="form-group">
-                        <label>First Name</label>
-                        <input 
-                          name="fname"
-                          type="text"
-                          class="form-control"
-                          placeholder="Enter First Name"
-                        />
-                      </div>
-                      
-                      <div class="form-group">
-                        <label>Last Name</label>
-                        <input
-                          name="lname"
-                          type="text"
-                          class="form-control"
-                          placeholder="Enter Last Name"
-                        />
-                      </div> <div class="form-group">
-                        <label>Mobile No</label>
-                        <input
-                          name="mobileno"
-                          type="text"
-                          class="form-control"
-                                              class="form-control-price price"
-            />
-                      </div> <div class="form-group">
-                        <label>Email address</label>
-                        <input
-                          name="email"
-                          type="email"
-                          class="form-control"
-                          placeholder="Enter email"
-                        />
-                      </div>
-                      <div class="form-group">
-                        <label>Register As</label>
-                        <select class="form-control" id="buyer_seller">
-                          <option value="Buyer">Buyer</option>
-                          <option value="Seller">Seller</option></select>
-                  </div>
-                      <div class="form-group">
-                        <label>Password</label>
-                        <input
-                          name"password"
-                          type="password"
-                          class="form-control"
-                          placeholder="Enter Password"
-                        />
-                      </div>
-                      <div class="form-group">
-                        <label>Confirm Password</label>
-                        <input
-                          name="cpassword"
-                          type="password"
-                          class="form-control"
-                          placeholder="Confirm Password"
-                        />
-                      </div>
-                      <button type="submit" class="btn btn-primary mt-4">
-                        Register
-                      </button>
-                    </form>
-                  </div>
-                </div> -->
-              </div>
+             
             </div>
           </div>
         </div>
