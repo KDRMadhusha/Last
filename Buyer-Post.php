@@ -2037,15 +2037,12 @@
                         </select>                    
                       </div>
                       <div class="form-group">
-                        <label>Description</label>
-                        <input
-                          name="Description"
-                          type="Description"
-                          class="form-control"
-                          placeholder="Enter Description"
-                          id="desc"
-                        />
+                      <label for="checkout-postcode"  >Description</label>
+                      <textarea id="checkout-postcode" class="form-control" rows="4" cols="50"> 
+                      </textarea>                     
+                   
                       </div>
+
 
                       <div class="form-group">
                         <label>Country</label>
