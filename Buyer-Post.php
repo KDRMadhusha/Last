@@ -2022,21 +2022,27 @@
                         />
                       </div>
                       <div class="form-group">
-                        <label>Description</label>
-                        <input
-                          name="Description"
-                          type="Description"
-                          class="form-control"
-                          placeholder="Enter Description"
-                          id="desc"
-                        />
-
-
-                        <!-- <small class="form-text text-muted" 
-                          >-->
-                          <!--<a href="#">Forgotten Password</a></small 
-                        >-->
+                        <label>Category</label>
+                        <select class="form-control"  id="category">
+                          <option value="Select From Here">Select From Here</option>
+                          <option value="Fruits Nuts & Vegetables">Fruits Nuts & Vegetables</option>
+                          <option value="Spices & Essential Oils">Spices & Essential Oils</option>
+                          <option value="Food Feed & Beverages">Food Feed & Beverages</option>
+                          <option value="Apperal & Textile">Apperal & Textile</option>
+                          <option value="Gems Diamond & Jewellery">Gems Diamond & Jewellery</option>
+                          <option value="Coconut & Coconut Based Product">Coconut & Coconut Based Product</option>
+                          <option value="HandCraft">HandCraft</option>
+                          <option value="Other">Other</option>
+                          >
+                        </select>                    
                       </div>
+                      <div class="form-group">
+                      <label for="checkout-postcode"  >Description</label>
+                      <textarea id="checkout-postcode" class="form-control" rows="4" cols="50"> 
+                      </textarea>                     
+                   
+                      </div>
+
 
                       <div class="form-group">
                         <label>Country</label>
@@ -2056,7 +2062,7 @@
                         </td>
                        
                         <td >  
-                          <select id="payment" name="payment">
+                          <select  class="form-control" id="payment" name="payment">
                             <option value="select">Select Method</option>
                             <option value="LS">LS</option>
                             <option value="FOB">FOB</option>
@@ -2087,112 +2093,18 @@
                         </table>
                       </div>
                     </div>
-
-                    
-                      <!-- <div class="form-group">
-                        <div class="form-check">
-                          <span class="form-check-input input-check"
-                            ><span class="input-check__body"
-                              ><input
-                                class="input-check__input"
-                                type="checkbox"
-                                id="login-remember"
-                              />
-                              <span class="input-check__box"></span>
-                              <svg
-                                class="input-check__icon"
-                                width="9px"
-                                height="7px"
-                              >
-                                <use
-                                  xlink:href="images/sprite.svg#check-9x7"
-                                ></use>
-                              </svg> </span></span
-                          ><label class="form-check-label" for="login-remember"
-                            >Remember Me</label
-                          >
-                        </div>
-                      </div> -->
-
-                     
-                      <button type="submit" class="btn btn-primary mt-4">
-                        Submit
-                      </button>
+                    <div class="form-group">
+                       <button
+                      type="submit"
+                      class="btn btn-primary btn-xl btn-block"
+                    >
+                     Submit
+                    </button> 
+                      </div> 
                     </form>
                   </div>
                 </div>
-              </div>
-              <div class="col-md-6 d-flex mt-4 mt-md-0">
-                <!-- <div class="card flex-grow-1 mb-0">
-                  <div class="card-body">
-                    <h3 class="card-title">Register</h3>
-                    <form method="POST" action="Rauthentication.php">
-                      <div class="form-group">
-                        <label>First Name</label>
-                        <input 
-                          name="fname"
-                          type="text"
-                          class="form-control"
-                          placeholder="Enter First Name"
-                        />
-                      </div>
-                      
-                      <div class="form-group">
-                        <label>Last Name</label>
-                        <input
-                          name="lname"
-                          type="text"
-                          class="form-control"
-                          placeholder="Enter Last Name"
-                        />
-                      </div> <div class="form-group">
-                        <label>Mobile No</label>
-                        <input
-                          name="mobileno"
-                          type="text"
-                          class="form-control"
-                                              class="form-control-price price"
-            />
-                      </div> <div class="form-group">
-                        <label>Email address</label>
-                        <input
-                          name="email"
-                          type="email"
-                          class="form-control"
-                          placeholder="Enter email"
-                        />
-                      </div>
-                      <div class="form-group">
-                        <label>Register As</label>
-                        <select class="form-control" id="buyer_seller">
-                          <option value="Buyer">Buyer</option>
-                          <option value="Seller">Seller</option></select>
-                  </div>
-                      <div class="form-group">
-                        <label>Password</label>
-                        <input
-                          name"password"
-                          type="password"
-                          class="form-control"
-                          placeholder="Enter Password"
-                        />
-                      </div>
-                      <div class="form-group">
-                        <label>Confirm Password</label>
-                        <input
-                          name="cpassword"
-                          type="password"
-                          class="form-control"
-                          placeholder="Confirm Password"
-                        />
-                      </div>
-                      <button type="submit" class="btn btn-primary mt-4">
-                        Register
-                      </button>
-                    </form>
-                  </div>
-                </div> -->
-              </div>
+              </div>             
             </div>
           </div>
         </div>
