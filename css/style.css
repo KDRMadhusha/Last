@@ -2005,7 +2005,8 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   left: 16px;
   top: 16px;
 }
-.product-card--layout--grid.product-card--size--sm .product-card__info {
+.product-card--layout--grid.product-card--size--sm .
+ {
   padding: 0 15px;
 }
 .product-card--layout--grid.product-card--size--sm .product-card__actions {
@@ -5880,7 +5881,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   .products-list[data-layout="grid-3-sidebar"]
     .product-card
     .product-card__info {
-    padding: 0 15px;
+    padding: 0 px;
   }
   .products-list[data-layout="grid-3-sidebar"]
     .product-card
