@@ -3292,12 +3292,14 @@
                               >
                                 Add To Cart
                               </button>
+								<a href="https://twomenandatruck.com/professional-packing-services">
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
                             </button>
+								</a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -3507,12 +3509,14 @@
                               >
                                 Add To Cart
                               </button>
+								<a href="https://www.seacare.lk/">
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
                             </button>
+								</a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"

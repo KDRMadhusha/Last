@@ -2190,7 +2190,7 @@
       <div class="site__body">
         <div class="page-header">
           <div class="page-header__container container">
-<div class="page-header__title"><h1>PACKING SERVICE IMPORT AND EXPORT</h1>
+<div class="page-header__title"><h1>CONSULTANCY SERVICE IMPORT AND EXPORT</h1>
             </div>
           </div>
         </div>
@@ -2206,17 +2206,35 @@
                         </div>
                       </div>
                       <div class="view-options__legend">
-                        <p> The primary role of packaging is to contain, protect and preserve a product as well as aid in its handling and final presentation. Packaging also refers to the process of design, evaluation, and production of packages. The packaging can be done within the export company or the job can be assigned to an outside packaging company. Packaging provides following benefits to the goods to be exported: Physical Protection – Packaging provides protection against shock, vibration, temperature, moisture and dust.</p>
-                        <p>&nbsp;</p>
+                        <p> We do consultancy service for all sort of import and export requirements with those who wish to trade in the global market. We can provide you with the custom taxes prior to your import. This will make you to choose the affordable item to be imported to Sri Lanka without much hassle.&nbsp;</p>
+                        <p>We are highly specialized in importation of vehicle from Japan, U.K. and Australia. We have the capacity to advice our clients what is the ideal vehicles to be imported to Sri Lanka to personal use or selling. Since we are a company importing vehicles, we can supply you vehicles to your desire. We always wish our customers makes the correct choice. Make a call to our general line for an appointment for the consultancy.</p>
                       </div>
                       <div class="view-options__divider"></div>
                       <div class="view-options__control">
-                        <label for="">&nbsp;</label>
-                        <div> </div>
+                        <label for="">Sort By</label>
+                        <div>
+                          <select
+                            class="form-control form-control-sm"
+                            name=""
+                            id=""
+                          >
+                            <option value="">Default</option>
+                            <option value="">Name (A-Z)</option>
+                          </select>
+                        </div>
                       </div>
                       <div class="view-options__control">
-                        <label for="">&nbsp;</label>
-                        <div> </div>
+                        <label for="">Show</label>
+                        <div>
+                          <select
+                            class="form-control form-control-sm"
+                            name=""
+                            id=""
+                          >
+                            <option value="">12</option>
+                            <option value="">24</option>
+                          </select>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -2247,7 +2265,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >TEX YEAR&nbsp;</a
+                                >SARA LOGISTICS (PVT) LTD.</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2390,17 +2408,18 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Corrugated boxes have different levels of paper strength and different levels of water repellence treatment to assure the full protection when it comes to different levels of weight holding and water resistance demand. Therefore, the suitability of hot melt adhesives for packaging is very important. The applications of hot melt adhesives for packaging include corrugated boxes, corrugated cartons, color boxes, color cartons, food containers, and paper pallets.</li>
+                              <li>Sara Logistics is in the business of providing customs clearance services since 2007. Based in Colombo we have been helping our clients to ship goods into and out of the country smoothly. Our key expertise is in providing custom consultation services, freight forwarding via sea, air and land, and clearing and forwarding services.&nbsp;</li>
+                              <li>Using our experience and expertise we see that your goods reach the destination safely, securely and without any difficulty. We are well-versed in customs clearance procedures of various countries and we handle work professionally. We are one of the top logistics service providers in the country. Associate with us and benefit from our services to grow your business.</li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                              +886-2-2299-2121 No.9, Wuquan 6th Rd., New Taipei Industrial Park, New Taipei City, Taiwan
+                              Sara Logistics (Pvt) Ltd 126/1 8B-1 1st Floor, Y.M.B.A. Building, Sir Baron Jayathilake Mw., Colombo 01
                             </div>
                             <div class="product-card__prices">
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
+                              <p>Sea Imports</p>
+                              <p>Air Imports</p>
+                              <p>Cargo services</p>
                             </div>
                             <div class="product-card__buttons">
                               <button
@@ -2409,12 +2428,14 @@
                               >
                                 Add To Cart
                               </button>
-								<a href="https://www.texyear.com/">
-                              <button
+                              <a href="https://www.saralogisticslk.com/">
+								<button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
-                              CONTACT INFO&nbsp; </button></a>
+                              CONTACT INFO&nbsp; 
+								  </a>
+								  </button>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -2470,7 +2491,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >Mayflower&nbsp;</a
+                                >Go Exporting is a specialist export consultancy</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2613,18 +2634,18 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>For some, packing may be the most overwhelming part of the move! Eliminate stress and save time with our full packing service option. No matter the size or destination, our packing crews can take care of this task, so you don’t have to. </li>
-                              <li>During your custom quote estimate process, Mayflower will get a deeper understanding of exactly what you want to move. We will assess which rooms and items you plan to pack yourself and how we may assist in the packing process.&nbsp;</li>
+                              <li>Our consultants are specially selected for their many years’ experience working with and for companies internationally, doing business across the globe. Whatever support, service or solution you need to grow through export, we can help.</li>
+                              <li>&nbsp;CEO and Founder Mike Wilson has 25+ years’ experience in sales and marketing, with a particular emphasis on developing international markets. He has an entrepreneurial flair for assessing opportunities and developing routes to market, growth and profit.&nbsp;</li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                              +U.S. DOT No. 125563 / TxDMV No. 36711 (1-888-368-4689)
+                              Manchester, UK Office 15017 PO Box 4336 Manchester M61 0BW
                             </div>
                             <div class="product-card__prices">
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
+                              <p>Fast Track</p>
+                              <p>Export Expansion</p>
+                              <p>Cargo Services&nbsp;</p>
                             </div>
                             <div class="product-card__buttons">
                               <button
@@ -2633,12 +2654,15 @@
                               >
                                 Add To Cart
                               </button>
-								<a href="https://www.mayflower.com/get-a-quote">
-                              <button
+                              <a href="https://goexporting.com/">
+								<button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
-                              CONTACT INFO&nbsp; </button></a>
+                              CONTACT INFO&nbsp;
+								  </a>
+								  </button>
+								
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -2687,7 +2711,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >United Vanlines&nbsp;&nbsp;</a
+                                >ICS GLOBAL</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2830,17 +2854,17 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>As an expert in the moving industry, United understands that one of the most crucial aspects of ensuring a seamless move experience is the packing phase. Our packing teams can help you pack your household goods, no matter the size of your residence, helping you to feel organized and confident when moving day arrives.</li>
-                              <li>Tnited offers customizable packing services to fit the needs of any move. Our personal move coordinators can help you choose which option is best for you. From full and partial packing options to custom crating for more fragile items, our movers can assist with all your packing needs. We can even handle unpacking your belongings at your new destination. At United, we have helpful, professional packing down to a science—from basement to attic.</li>
+                              <li>We understand the complexities surrounding importing and exporting and aim to be your go-to import / export consultancy company for expertise, support and guidance, able to provide direction and import / export training while remaining approachable and personable.&nbsp;</li>
+                              <li>With over 30 years’ experience of importing and exporting, we have helped numerous companies build successful international trade businesses, while ensuring they remain compliant with import / export laws and regulations. </li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                            <span class="text-success">&nbsp;U.S. DOT No. 077949 / TxDMV No. 5253 (1-800-299-1700) We use cookies to ensure the best experience. By continuing, you agree to the use of cookies. Learn more at GDPR or Privacy Policy. OK</span> </div>
+                            <span class="text-success">&nbsp;</span> </div>
                             <div class="product-card__prices">
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
+                              <p>Sea Imports&nbsp;</p>
+                              <p>Air Imports</p>
+                              <p>&nbsp;Cargo services</p>
                             </div>
                             <div class="product-card__buttons">
                               <button
@@ -2849,13 +2873,14 @@
                               >
                                 Add To Cart
                               </button>
-								<a href="https://www.unitedvanlines.com/">
+								<a href="https://www.icsglobalservices.com/contact">
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
-                            </button></a>
+                            </button>
+									</a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -2905,7 +2930,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >Abans logestic pvt.ltd&nbsp;</a
+                                >Trade Compliance Specialists</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3048,17 +3073,17 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Abans Logistics (Pvt) Ltd is a one stop logistics solutions provider empowered with dedicated logistics professionals providing critical logistics services to various divisions.</li>
-                              <li>&nbsp;We make thoughtful improvements to your logistics process by investing the time to understand the fine details of your operations. Personalized and professional customer service lies at the heart of Abans Logistic’s success. All the services provided by Abans logistics carry a trusteed guaranteed of quality and reliability.</li>
+                              <li>Trade compliance is labor-intensive, and it is becoming increasingly difficult to remain compliant as regulations, sanctions, and trade laws change. Mistakes can be costly. Companies can incur hefty fines, damaged reputations, lost sales, and disruptions to their supply chain.</li>
+                              <li>&nbsp;If you ship or receive goods or services, then you need a trade compliance leader on your team to help you with import/export compliance, tariff savings, avoiding costly fees and penalties, and to keep your business running smoothly.</li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                              +94 11 5775900 - 30 logisticsinfo@abansgroup.com
+                              13900 County Road 455 Suite 107, #117 Clermont, FL 34711
                             </div>
                             <div class="product-card__prices">
-                              <p>&nbsp;</p>
-                              <p>&nbsp;</p>
+                              <p>New Employee Orientation</p>
+                              <p>&nbsp;Cargo Services</p>
                             </div>
                             <div class="product-card__buttons">
                               <button
@@ -3067,14 +3092,13 @@
                               >
                                 Add To Cart
                               </button>
-								<a href="https://abanslogistics.lk/">
-                              <button
+                              <a href="https://www.exportsolutionsinc.com/">
+								<button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
-                            </button>
-								<a>
+                            </button></a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -3134,7 +3158,7 @@
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
-                              <a href="product.html">TWO MEN AND TRUCK PACKING&nbsp;&nbsp;</a>
+                              <a href="product.html">EDB(SRI LANKAN EXPORT BOARD)&nbsp;</a>
                             </div>
                             <div class="product-card__rating">
                               <div class="rating">
@@ -3276,15 +3300,14 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Packing smart is essential for any move — it can eliminate stress when you’re fully prepared and packed before move day arrives. Our professional teams can provide customized packing services to you, whether you need a little packed or an entire home, we can help.</li>
-                              <li>When you use TWO MEN AND A TRUCK to pack, you’ll get professionally-trained packing professionals to carefully pack your most precious belongings. Use our experienced teams to pack just a few rooms, or your entire house for you.&nbsp;</li>
+                              <li>Find a comprehensive and up to date database of Sri Lankan exporters and service providers in agricultural, food and beverage, industrial, engineering, ICT and BPM sectors, maintained and monitored by the Trade Facilitation &amp; Information Division of Sri Lanka Export Development Board.</li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                              3400 Belle Chase Way Lansing, MI 48911
+                              No. 42 Nawam Mawatha, Colombo-02, Sri Lanka.
                             </div>
-                            <div class="product-card__prices">&nbsp;</div>
+                            <div class="product-card__prices">Cargo Services</div>
                             <div class="product-card__buttons">
                               <button
                                 class="btn btn-primary product-card__addtocart"
@@ -3292,12 +3315,13 @@
                               >
                                 Add To Cart
                               </button>
+								<a href="https://www.srilankabusiness.com/exporters-directory/bpm-outsourcing-service-exporters-in-sri-lanka/consultancy-service-providers/">
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
-                            </button>
+                            </button></a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
@@ -3345,7 +3369,7 @@
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
-                              <a href="product.html">Seacare Forwarders</a>
+                              <a href="product.html">Indiamart&nbsp;Export Consultants</a>
                             </div>
                             <div class="product-card__rating">
                               <div class="rating">
@@ -3487,18 +3511,17 @@
                               </div>
                             </div>
                             <ul class="product-card__features-list">
-                              <li>Strategically headquartered in Colombo Sri Lanka, Seacare Forwarders offers a large number of supply chain management solutions to deliver your products timely and safely to any location around the globe.&nbsp;</li>
-                              <li>With more than 14 years of experience in international Shipping, We have managed to establish ourselves as a reputed freight forwarder by helping multiple brands import and export their products with a high level of satisfaction.&nbsp;</li>
-                              <li>With the broad spectrum of value added logistic services enabled by our network of partners around the globe, you will be able to deliver your products to the exact destination on time without the worry of Custom Clearance</li>
+                              <li>With our vast experience &amp; knowledge in this field, we are engaged in providing a quality-assured range</li>
+                              <li>We will provide ll Website Designing ll ll domain registration ll ll Hosting services ll ll Product Content Writing ll ll Business email id ll ll Search engine optimization ll ll Google Business Registration ll ll Logo making / lateraped / visiting card ll&nbsp;</li>
                             </ul>
                           </div>
                           <div class="product-card__actions">
                             <div class="product-card__availability">
-                              545 B-2/2, Sri Sangaraja Mawatha Colombo 10, Sri Lanka + (94) 11 4 723 448 info@seacare.lk
+                              IndiaMART InterMESH Ltd. 6th floor, Tower 2, Assotech Business Cresterra, Plot No.22, Sec 135, Noida-201305, Uttar Pradesh, India. Phone: +91 – 120 – 6777777
                             </div>
                             <div class="product-card__prices">
-                              <p>CargoVehicles</p>
-                              <p>&nbsp;</p>
+                              <p>Cargo Services</p>
+                              <p>Sea Imports</p>
                             </div>
                             <div class="product-card__buttons">
                               <button
@@ -3507,12 +3530,13 @@
                               >
                                 Add To Cart
                               </button>
+								<a href="https://dir.indiamart.com/impcat/export-consultants.html">
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               >
                               CONTACT INFO
-                            </button>
+                            </button></a>
                               <button
                                 class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
                                 type="button"
