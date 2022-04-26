@@ -1799,12 +1799,11 @@
                         <div class="nav-links__menu">
                           <!-- .menu -->
                           <ul class="menu menu--layout--classic">
-                            <li><a href="about-us.php">Consultant</a></li>
-                            <li><a href="contact-us.php">Shipping</a></li>
+                            <li><a href="consult.php">Consultant</a></li>
+                            <li><a href="ship.php">Shipping</a></li>
                             <li>
-                              <a href="contact-us-alt.php">Packing</a>
+                              <a href="pack.php">Packing</a>
                             </li>
-                            <li><a href="404.php">Vehicle</a></li>
                           </ul>
                           <!-- .menu / end -->
                         </div>

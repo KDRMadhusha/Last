@@ -1799,12 +1799,11 @@
                         <div class="nav-links__menu">
                           <!-- .menu -->
                           <ul class="menu menu--layout--classic">
-                            <li><a href="about-us.php">Consultant</a></li>
-                            <li><a href="contact-us.php">Shipping</a></li>
+                            <li><a href="consult.php">Consultant</a></li>
+                            <li><a href="ship.php">Shipping</a></li>
                             <li>
-                              <a href="contact-us-alt.php">Packing</a>
+                              <a href="pack.php">Packing</a>
                             </li>
-                            <li><a href="404.php">Vehicle</a></li>
                           </ul>
                           <!-- .menu / end -->
                         </div>
@@ -2397,7 +2396,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cavendish Banana </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cavendish Banana </h3>
 
                                 </a>
                               
@@ -2462,7 +2461,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Carrots </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Carrots </h3>
 
                                 </a>
                               
@@ -2526,7 +2525,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Grape Skins & Seeds </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Grape Skins & Seeds </h3>
 
                                 </a>
                               
@@ -2590,7 +2589,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Cabbage </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Cabbage </h3>
 
                                 </a>
                               
@@ -2654,7 +2653,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cashew Nuts </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cashew Nuts </h3>
 
                                 </a>
                               
@@ -2718,7 +2717,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cavendish Banana </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cavendish Banana </h3>
 
                                 </a>
                               
@@ -2783,7 +2782,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Carrots </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Carrots </h3>
 
                                 </a>
                               
@@ -2847,7 +2846,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Grape Skins & Seeds </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Grape Skins & Seeds </h3>
 
                                 </a>
                               
@@ -2911,7 +2910,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Cabbage </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Cabbage </h3>
 
                                 </a>
                               
@@ -2975,7 +2974,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cashew Nuts </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cashew Nuts </h3>
 
                                 </a>
                               
