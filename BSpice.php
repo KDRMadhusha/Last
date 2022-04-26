@@ -2231,7 +2231,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Black Pepper </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Black Pepper </h3>
 
                                 </a>
                               
@@ -2296,7 +2296,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cardamom </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cardamom </h3>
 
                                 </a>
                               
@@ -2360,7 +2360,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cinnamon </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cinnamon </h3>
 
                                 </a>
                               
@@ -2424,7 +2424,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Clove Essential Oil </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Clove Essential Oil </h3>
 
                                 </a>
                               
@@ -2488,7 +2488,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Black Pepper </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Black Pepper </h3>
 
                                 </a>
                               
@@ -2553,7 +2553,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cardamom </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cardamom </h3>
 
                                 </a>
                               
@@ -2617,7 +2617,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Cinnamon </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Cinnamon </h3>
 
                                 </a>
                               
@@ -2681,7 +2681,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Clove Essential Oil </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Clove Essential Oil </h3>
 
                                 </a>
                               

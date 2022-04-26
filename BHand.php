@@ -2203,7 +2203,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Artist Handcrafted </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Artist Handcrafted </h3>
 
                                 </a>
                               
@@ -2268,7 +2268,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Wooden Decoratives </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Wooden Decoratives </h3>
 
                                 </a>
                               
@@ -2332,7 +2332,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Decorative Artware </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Decorative Artware </h3>
 
                                 </a>
                               
@@ -2396,7 +2396,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Decorative Lamps</h3>
+                                ><h3><span style="color:red;">Wanted:</span> Decorative Lamps</h3>
 
                                 </a>
                               
@@ -2461,7 +2461,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Artist Handcrafted </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Artist Handcrafted </h3>
 
                                 </a>
                               
@@ -2526,7 +2526,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Wooden Decoratives </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Wooden Decoratives </h3>
 
                                 </a>
                               
@@ -2590,7 +2590,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Decorative Artware </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Decorative Artware </h3>
 
                                 </a>
                               
@@ -2654,7 +2654,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Decorative Lamps</h3>
+                                ><h3><span style="color:red;">Wanted:</span> Decorative Lamps</h3>
 
                                 </a>
                               

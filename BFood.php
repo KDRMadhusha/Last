@@ -2317,7 +2317,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Fresh Milk Powder</h3>
+                                ><h3><span style="color:red;">Wanted:</span>Fresh Milk Powder</h3>
 
                                 </a>
                               
@@ -2382,7 +2382,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Animal Feed like Barley</h3>
+                                ><h3><span style="color:red;">Wanted:</span>Animal Feed like Barley</h3>
 
                                 </a>
                               
@@ -2446,7 +2446,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Black Tea & Green Tea </h3>
+                                ><h3><span style="color:red;">Wanted:</span>Black Tea & Green Tea </h3>
 
                                 </a>
                               
@@ -2510,7 +2510,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Hell Energy Drink </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Hell Energy Drink </h3>
 
                                 </a>
                               
@@ -2575,7 +2575,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Fresh Milk Powder</h3>
+                                ><h3><span style="color:red;">Wanted:</span>Fresh Milk Powder</h3>
 
                                 </a>
                               
@@ -2640,7 +2640,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Animal Feed like Barley</h3>
+                                ><h3><span style="color:red;">Wanted:</span>Animal Feed like Barley</h3>
 
                                 </a>
                               
@@ -2704,7 +2704,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted:Black Tea & Green Tea </h3>
+                                ><h3><span style="color:red;">Wanted:</span>Black Tea & Green Tea </h3>
 
                                 </a>
                               
@@ -2768,7 +2768,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Hell Energy Drink </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Hell Energy Drink </h3>
 
                                 </a>
                               

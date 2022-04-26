@@ -2331,7 +2331,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Hats & Caps </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Hats & Caps </h3>
 
                                 </a>
                               
@@ -2396,7 +2396,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Party Wear Dress </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Party Wear Dress </h3>
 
                                 </a>
                               
@@ -2460,7 +2460,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Ladies Dresses </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Ladies Dresses </h3>
 
                                 </a>
                               
@@ -2524,7 +2524,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Batik Shirts </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Batik Shirts </h3>
 
                                 </a>
                               
@@ -2589,7 +2589,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Hats & Caps </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Hats & Caps </h3>
 
                                 </a>
                               
@@ -2654,7 +2654,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Party Wear Dress </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Party Wear Dress </h3>
 
                                 </a>
                               
@@ -2718,7 +2718,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Ladies Dresses </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Ladies Dresses </h3>
 
                                 </a>
                               
@@ -2782,7 +2782,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Batik Shirts </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Batik Shirts </h3>
 
                                 </a>
                               
