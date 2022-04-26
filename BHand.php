@@ -1,5 +1,5 @@
-<!DOCTYPE php>
-<php lang="en" dir="ltr">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -1819,7 +1819,7 @@
                   </div>
                  
                   <!-- .nav-links / end -->
-                    <!-- .post button -->
+                 <!-- .post button -->
 
                  <div class="nav-panel__indicators">
                   
@@ -1851,7 +1851,8 @@
                     </svg>
                   </li>
                   <li class="breadcrumb-item">
-                    <a href="#">HandCraft</a>                   
+                    <a href="#">Handcraft</a>
+                    
                   </li>
                  
                 </ol>
@@ -1865,13 +1866,13 @@
           <div class="shop-layout shop-layout--sidebar--start">
             <div class="shop-layout__sidebar">
               <div class="block block-sidebar">
-                <div class="block-sidebar__item">
+              <div class="block-sidebar__item">
                   <div
                     class="widget-filters widget"
                     data-collapse
                     data-collapse-opened-class="filter--opened"
                   >
-                    <h4 class="widget__title">HandCraft</h4>
+                    <h4 class="widget__title">Handcraft</h4>
                     <div class="widget-filters__list">
                       <div class="widget-filters__item">
                         <div class="filter filter--opened" data-collapse-item>
@@ -1880,7 +1881,7 @@
                             class="filter__title"
                             data-collapse-trigger
                           >
-                           Wood  
+                            Wood 
                             <svg
                               class="filter__arrow"
                               width="12px"
@@ -1908,7 +1909,7 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#"> Wood Carving Design</a>
+                                    <a href="#">Wood Carving Designs</a>
                                   
                                   </li>
                                   <li
@@ -1936,7 +1937,7 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Arts & Craft</a>
+                                    <a href="#">Arts & Crafts</a>
                                    
                                   </li>
                                   <li
@@ -1953,7 +1954,10 @@
                                     <a href="#">Coconut Wood Items</a>
                                     
                                   </li>
-                                                              
+                                  
+                                  
+                                  
+                                 
                                 </ul>
                               </div>
                             </div>
@@ -1965,7 +1969,7 @@
                             class="filter__title"
                             data-collapse-trigger
                           >
-                           Other Product
+                            Other
                             <svg
                               class="filter__arrow"
                               width="12px"
@@ -1993,7 +1997,7 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Mask </a>
+                                    <a href="#">Masks</a>
                                   
                                   </li>
                                   <li
@@ -2021,7 +2025,7 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Lacquer Work </a>
+                                    <a href="#">Lacquer Work</a>
                                    
                                   </li>
                                   <li
@@ -2035,9 +2039,11 @@
                                     xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
                                   ></use>
                                 </svg>
-                                    <a href="#">Beeralu Lacquer </a>
+                                    <a href="#">Beeralu Lace</a>
                                     
                                   </li>
+                                  
+                                  
                                   
                                  
                                 </ul>
@@ -2045,7 +2051,7 @@
                             </div>
                           </div>
                         </div>
-                       
+                        
                       </div>
                     </div>
                   </div>
@@ -2057,13 +2063,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-1.jpg" alt=""
+                            ><img src="images/products/product-hn1.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Electric Planer Brandix KL370090G 300 Watts</a
+                              >Wooden Toys</a
                             >
                           </div>
                           <div class="widget-products__prices">$749.00</div>
@@ -2072,13 +2078,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-2.jpg" alt=""
+                            ><img src="images/products/product-hn2.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Undefined Tool IRadix DPS3000SY 2700 Watts</a
+                              >Wall Hangers</a
                             >
                           </div>
                           <div class="widget-products__prices">$1,019.00</div>
@@ -2087,13 +2093,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-3.jpg" alt=""
+                            ><img src="images/products/product-hn3.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Drill Screwdriver Brandix ALX7054 200 Watts</a
+                              >Dot Arts</a
                             >
                           </div>
                           <div class="widget-products__prices">$850.00</div>
@@ -2102,13 +2108,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-4.jpg" alt=""
+                            ><img src="images/products/product-hn4.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Drill Series 3 Brandix KSR4590PQS 1500 Watts</a
+                              >Table Decos</a
                             >
                           </div>
                           <div class="widget-products__prices">
@@ -2124,13 +2130,13 @@
                       <div class="widget-products__item">
                         <div class="widget-products__image">
                           <a href="product.php"
-                            ><img src="images/products/product-5.jpg" alt=""
+                            ><img src="images/products/product-hn5.jpg" alt=""
                           /></a>
                         </div>
                         <div class="widget-products__info">
                           <div class="widget-products__name">
                             <a href="product.php"
-                              >Brandix Router Power Tool 2017ERXPK</a
+                              >Mandala Arts</a
                             >
                           </div>
                           <div class="widget-products__prices">$1,700.00</div>
@@ -2150,7 +2156,7 @@
                         <div class="layout-switcher">
                           <div class="layout-switcher__list">
 
-                            <a href="SHand.php">
+                            <a href="SFruit.php">
                             <button
                               type="button"
                               class="layout-switcher__button"
@@ -2180,7 +2186,7 @@
                     data-layout="list"
                     data-with-features="false"
                    >
-                   <div class="products-list__body">
+                    <div class="products-list__body">
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -2192,178 +2198,33 @@
                             <span class="fake-svg-icon"></span>
                           </button>
                           <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--new"
-                            >
-                              New
-                            </div>
+                            
                           </div>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-1.jpg" alt=""
-                            /></a>
-                          </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Electric Planer Brandix KL370090G 300 Watts</a
-                              >
+                                ><h3>Wanted: Artist Handcrafted </h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                9 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: Singapore</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 5 carton/1 month</h6>
+                            <p>Please provide a quotation to the following requirement from importer - Product Name: Artistic Handcrafted Specifications : Fashion Frog Shape, Art Ware, Different Shapes And Sizes Style: Antique Imitation, Folk Art, Fashion, Feng Shui, Artificial, Religious Theme: Pattern, Home Decor, Love Quantity Required : 500 - 1000 Piece/Pieces Shipping Terms : FOB Destination Port : Japan Payment Terms : To be discussed with suppliers Looking for suppliers from : Worldwide Contact : Sakara</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$749.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                           <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -2372,32 +2233,81 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
+                              ><a href="quotation.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
                            
-                                                          <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
+                                                          
+                                
+                                
+                              </button>
+                              
+                                
                                 <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
+                                  class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      
+                      <div class="products-list__item">
+                        <div class="product-card">
+                          <button class="product-card__quickview" type="button">
+                            <svg width="16px" height="16px">
+                              <use
+                                xlink:href="images/sprite.svg#quickview-16"
+                              ></use>
+                            </svg>
+                            <span class="fake-svg-icon"></span>
+                          </button>
+                          <div class="product-card__badges-list">
+                            
+                          </div>
+                          
+                          <div class="product-card__info">
+                            <div class="product-card__name">
+                              <a href="product.php"
+                                ><h3>Wanted: Wooden Decoratives </h3>
+
+                                </a>
+                              
+                            </div>
+                            
+                          
+                            <h6>Country: Romania</h6>
+                           
+                            <h6>Payment Method: FOB</h6> 
+                            <h6>Qty: 10 carton/1 month</h6>
+                            <p>Please quote for the following wholesale product requirement - Product Name: Wooden Decoratives For Home Specifications: Type: Daily, Christmas, Halloween, Easter Etcetera. Mirror Frames, Hanging, Furnishings, Candle Holders, Lamps Material: Wooden Quantity Required : 1 Forty-Foot Container Shipping Terms : FOB Or CIF Destination Port : India Payment Terms : T/T Or L/C Looking for suppliers from : Worldwide Contact : Saba</p>
+                          </div>
+
+                          
+                          <div class="product-card__actions">
+                            
+                            
+                            <div class="product-card__buttons">
+                          
+                                 <button
+                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              ><a href="quotation.php" class="indicator__button">
+                            Send Quotation</a>
+                              </button>
+                              <button
+                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
+                                type="button"
+                              ><a href="quotation.php" class="indicator__button">
+                           Contact Buyer</a>
+                              </button>
+                           
+                                                          
+                                
+                                
+                              </button>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -2417,178 +2327,33 @@
                             <span class="fake-svg-icon"></span>
                           </button>
                           <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--hot"
-                            >
-                              Hot
-                            </div>
+                            
                           </div>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-2.jpg" alt=""
-                            /></a>
-                          </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Undefined Tool IRadix DPS3000SY 2700 Watts</a
-                              >
+                                ><h3>Wanted: Decorative Artware </h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                11 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: Malaysia</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 20 carton/1 month</h6>
+                            <p> The buyer would like to receive quotations for - Product Name: Decorative Artware Specifications: Type: Vases, Frames, Art Wares, Pots, Statues, Etc. Style: Modern, Fashionable Colors: All Size: Standard Quantity Required : 1 Twenty-Foot Container Shipping Terms : CIF Destination Port : Germany Payment Terms : CAD Looking for suppliers from : Worldwide Contact : Martina</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$1,019.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -2597,248 +2362,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-3.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php"
-                                >Drill Screwdriver Brandix ALX7054 200 Watts</a
-                              >
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                9 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$850.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
                               ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -2858,185 +2391,33 @@
                             <span class="fake-svg-icon"></span>
                           </button>
                           <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--sale"
-                            >
-                              Sale
-                            </div>
+                            
                           </div>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-4.jpg" alt=""
-                            /></a>
-                          </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Drill Series 3 Brandix KSR4590PQS 1500 Watts</a
-                              >
+                                ><h3>Wanted: Decorative Lamps</h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                7 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: United Arab Emirates</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 50 carton/1 month</h6>
+                            <p>The buyer would like to receive quotations for - Product Name: Decorative Lamps Specifications: Type: Wall Mounted, Garden, Interior Lights, Standing, Wall Hanging Wire Lamp, Lamps, Vintage, Etc. Colorful: All Colors (Yellow, White, Colored) Style: Decorative Type: Waterproof Quantity Required : 1 Twenty-Foot Container(sample) Shipping Terms : CIF Destination Port : Barcelona, Spain Payment Terms : T/T Looking for suppliers from : Worldwide Contact : Endy</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">
-                              <span class="product-card__new-price"
-                                >$949.00</span
-                              >
-                              <span class="product-card__old-price"
-                                >$1189.00</span
-                              >
-                            </div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -3045,31 +2426,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
+                              ><a href="quotation.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -3078,6 +2444,7 @@
                           </div>
                         </div>
                       </div>
+                      
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -3088,172 +2455,34 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-5.jpg" alt=""
-                            /></a>
+                          <div class="product-card__badges-list">
+                            
                           </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Brandix Router Power Tool 2017ERXPK</a
-                              >
+                                ><h3>Wanted: Artist Handcrafted </h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                9 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: Singapore</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 5 carton/1 month</h6>
+                            <p>Please provide a quotation to the following requirement from importer - Product Name: Artistic Handcrafted Specifications : Fashion Frog Shape, Art Ware, Different Shapes And Sizes Style: Antique Imitation, Folk Art, Fashion, Feng Shui, Artificial, Religious Theme: Pattern, Home Decor, Love Quantity Required : 500 - 1000 Piece/Pieces Shipping Terms : FOB Destination Port : Japan Payment Terms : To be discussed with suppliers Looking for suppliers from : Worldwide Contact : Sakara</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$1,700.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -3262,31 +2491,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
+                              ><a href="quotation.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -3295,6 +2509,7 @@
                           </div>
                         </div>
                       </div>
+                      
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -3305,172 +2520,34 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-6.jpg" alt=""
-                            /></a>
+                          <div class="product-card__badges-list">
+                            
                           </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Brandix Drilling Machine DM2019KW4 4kW</a
-                              >
+                                ><h3>Wanted: Wooden Decoratives </h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                7 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: Romania</h6>
+                           
+                            <h6>Payment Method: FOB</h6> 
+                            <h6>Qty: 10 carton/1 month</h6>
+                            <p>Please quote for the following wholesale product requirement - Product Name: Wooden Decoratives For Home Specifications: Type: Daily, Christmas, Halloween, Easter Etcetera. Mirror Frames, Hanging, Furnishings, Candle Holders, Lamps Material: Wooden Quantity Required : 1 Forty-Foot Container Shipping Terms : FOB Or CIF Destination Port : India Payment Terms : T/T Or L/C Looking for suppliers from : Worldwide Contact : Saba</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$3,199.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -3479,31 +2556,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
+                              ><a href="quotation.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -3522,1462 +2584,34 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-7.jpg" alt=""
-                            /></a>
+                          <div class="product-card__badges-list">
+                            
                           </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Brandix Pliers</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                4 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$24.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-8.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Water Hose 40cm</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                4 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$15.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-9.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Spanner Wrench</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                9 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$19.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-10.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Water Tap</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                11 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$15.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-11.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Hand Tool Kit</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                9 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$149.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-12.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php">Ash's Chainsaw 3.5kW</a>
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                11 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$666.99</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-13.jpg" alt=""
-                            /></a>
-                          </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Brandix Angle Grinder KZX3890PQW</a
-                              >
+                                ><h3>Wanted: Decorative Artware </h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                4 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: Malaysia</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 20 carton/1 month</h6>
+                            <p> The buyer would like to receive quotations for - Product Name: Decorative Artware Specifications: Type: Vases, Frames, Art Wares, Pots, Statues, Etc. Style: Modern, Fashionable Colors: All Size: Standard Quantity Required : 1 Twenty-Foot Container Shipping Terms : CIF Destination Port : Germany Payment Terms : CAD Looking for suppliers from : Worldwide Contact : Martina</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$649.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -4986,31 +2620,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
+                              ><a href="quotation.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -5029,172 +2648,34 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-14.jpg" alt=""
-                            /></a>
+                          <div class="product-card__badges-list">
+                            
                           </div>
+                          
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                >Brandix Air Compressor DELTAKX500</a
-                              >
+                                ><h3>Wanted: Decorative Lamps</h3>
+
+                                </a>
+                              
                             </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                7 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
+                            
+                          
+                            <h6>Country: United Arab Emirates</h6>
+                           
+                            <h6>Payment Method: FOB</h6>
+                            <h6>Qty: 50 carton/1 month</h6>
+                            <p>The buyer would like to receive quotations for - Product Name: Decorative Lamps Specifications: Type: Wall Mounted, Garden, Interior Lights, Standing, Wall Hanging Wire Lamp, Lamps, Vintage, Etc. Colorful: All Colors (Yellow, White, Colored) Style: Decorative Type: Waterproof Quantity Required : 1 Twenty-Foot Container(sample) Shipping Terms : CIF Destination Port : Barcelona, Spain Payment Terms : T/T Looking for suppliers from : Worldwide Contact : Endy</p>
                           </div>
+
+                          
                           <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$1,800.00</div>
+                            
+                            
                             <div class="product-card__buttons">
-                             <button
+                          
+                                 <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
                               ><a href="quotation.php" class="indicator__button">
@@ -5203,248 +2684,16 @@
                               <button
                                 class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
                                 type="button"
-                              ><a href="chat.php" class="indicator__button">
-                           Contact Buyer</a>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
-                              </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--compare-16"
-                                ></span>
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="products-list__item">
-                        <div class="product-card">
-                          <button class="product-card__quickview" type="button">
-                            <svg width="16px" height="16px">
-                              <use
-                                xlink:href="images/sprite.svg#quickview-16"
-                              ></use>
-                            </svg>
-                            <span class="fake-svg-icon"></span>
-                          </button>
-                          <div class="product-card__image">
-                            <a href="product.php"
-                              ><img src="images/products/product-15.jpg" alt=""
-                            /></a>
-                          </div>
-                          <div class="product-card__info">
-                            <div class="product-card__name">
-                              <a href="product.php"
-                                >Brandix Electric Jigsaw JIG7000BQ</a
-                              >
-                            </div>
-                            <div class="product-card__rating">
-                              <div class="rating">
-                                <div class="rating__body">
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star rating__star--active"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge rating__star--active"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                  <svg
-                                    class="rating__star"
-                                    width="13px"
-                                    height="12px"
-                                  >
-                                    <g class="rating__fill">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal"
-                                      ></use>
-                                    </g>
-                                    <g class="rating__stroke">
-                                      <use
-                                        xlink:href="images/sprite.svg#star-normal-stroke"
-                                      ></use>
-                                    </g>
-                                  </svg>
-                                  <div
-                                    class="rating__star rating__star--only-edge"
-                                  >
-                                    <div class="rating__fill">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                    <div class="rating__stroke">
-                                      <div class="fake-svg-icon"></div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="product-card__rating-legend">
-                                4 Reviews
-                              </div>
-                            </div>
-                            <ul class="product-card__features-list">
-                              <li>Speed: 750 RPM</li>
-                              <li>Power Source: Cordless-Electric</li>
-                              <li>Battery Cell Type: Lithium</li>
-                              <li>Voltage: 20 Volts</li>
-                              <li>Battery Capacity: 2 Ah</li>
-                            </ul>
-                          </div>
-                          <div class="product-card__actions">
-                            <div class="product-card__availability">
-                              Availability:
-                              <span class="text-success">In Stock</span>
-                            </div>
-                            <div class="product-card__prices">$290.00</div>
-                            <div class="product-card__buttons">
-                             <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
                               ><a href="quotation.php" class="indicator__button">
-                            Send Quotation</a>
-                              </button>
-                              <button
-                                class="btn btn-secondary product-card__addtocart product-card__addtocart--list"
-                                type="button"
-                              ><a href="chat.php" class="indicator__button">
                            Contact Buyer</a>
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__wishlist"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#wishlist-16"
-                                  ></use>
-                                </svg>
-                                <span
-                                  class="fake-svg-icon fake-svg-icon--wishlist-16"
-                                ></span>
+                           
+                                                          
+                                
+                                
                               </button>
-                              <button
-                                class="btn btn-light btn-svg-icon btn-svg-icon--fake-svg product-card__compare"
-                                type="button"
-                              >
-                                <svg width="16px" height="16px">
-                                  <use
-                                    xlink:href="images/sprite.svg#compare-16"
-                                  ></use>
-                                </svg>
+                              
+                                
                                 <span
                                   class="fake-svg-icon fake-svg-icon--compare-16"
                                 ></span>
@@ -5453,6 +2702,8 @@
                           </div>
                         </div>
                       </div>
+                     
+                      
                     </div>
                   </div>
                   <div class="products-view__pagination">
@@ -5661,4 +2912,4 @@
     </div>
     <!-- site / end -->
   </body>
-</php>
+</html>
