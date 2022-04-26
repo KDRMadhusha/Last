@@ -1846,6 +1846,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   -ms-flex-positive: 1;
   flex-grow: 1;
 }
+
 .product-card__name a {
   color: inherit;
   transition: 0.15s;
