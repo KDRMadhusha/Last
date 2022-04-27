@@ -2330,7 +2330,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fashionable Jewellery </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fashionable Jewellery </h3>
 
                                 </a>
                               
@@ -2395,7 +2395,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Imitation Jewellery </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Imitation Jewellery </h3>
 
                                 </a>
                               
@@ -2459,7 +2459,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Jewellery Items </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Jewellery Items </h3>
 
                                 </a>
                               
@@ -2523,7 +2523,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Gemstones </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Gemstones </h3>
 
                                 </a>
                               
@@ -2587,7 +2587,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fashionable Jewellery </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fashionable Jewellery </h3>
 
                                 </a>
                               
@@ -2652,7 +2652,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Imitation Jewellery </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Imitation Jewellery </h3>
 
                                 </a>
                               
@@ -2716,7 +2716,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Jewellery Items </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Jewellery Items </h3>
 
                                 </a>
                               
@@ -2780,7 +2780,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Gemstones </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Gemstones </h3>
 
                                 </a>
                               

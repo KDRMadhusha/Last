@@ -2217,7 +2217,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Coconut Oil </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Coconut Oil </h3>
 
                                 </a>
                               
@@ -2282,7 +2282,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Coconut </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Coconut </h3>
 
                                 </a>
                               
@@ -2346,7 +2346,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Coconut Water</h3>
+                                ><h3><span style="color:red;">Wanted:</span> Coconut Water</h3>
 
                                 </a>
                               
@@ -2410,7 +2410,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Semi Husked Coconut </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Semi Husked Coconut </h3>
 
                                 </a>
                               
@@ -2478,7 +2478,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Coconut Oil </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Coconut Oil </h3>
 
                                 </a>
                               
@@ -2543,7 +2543,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Fresh Coconut </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Fresh Coconut </h3>
 
                                 </a>
                               
@@ -2607,7 +2607,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Coconut Water</h3>
+                                ><h3><span style="color:red;">Wanted:</span> Coconut Water</h3>
 
                                 </a>
                               
@@ -2671,7 +2671,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Semi Husked Coconut </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Semi Husked Coconut </h3>
 
                                 </a>
                               

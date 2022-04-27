@@ -2153,7 +2153,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Leaves for Fresh Flowers </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Leaves for Fresh Flowers </h3>
 
                                 </a>
                               
@@ -2218,7 +2218,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Organic Menthol Crystals </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Organic Menthol Crystals </h3>
 
                                 </a>
                               
@@ -2282,7 +2282,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Plastic Crates </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Plastic Crates </h3>
 
                                 </a>
                               
@@ -2346,7 +2346,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Plastic Number Plates </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Plastic Number Plates </h3>
 
                                 </a>
                               
@@ -2411,7 +2411,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Leaves for Fresh Flowers </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Leaves for Fresh Flowers </h3>
 
                                 </a>
                               
@@ -2476,7 +2476,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Organic Menthol Crystals </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Organic Menthol Crystals </h3>
 
                                 </a>
                               
@@ -2540,7 +2540,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Plastic Crates </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Plastic Crates </h3>
 
                                 </a>
                               
@@ -2604,7 +2604,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.php"
-                                ><h3>Wanted: Plastic Number Plates </h3>
+                                ><h3><span style="color:red;">Wanted:</span> Plastic Number Plates </h3>
 
                                 </a>
                               
