@@ -2190,6 +2190,24 @@
       <div class="site__body">
         <div class="page-header">
           <div class="page-header__container container">
+          <div class="page-header__breadcrumb">
+              <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item">
+                    <a href="index.php">Home</a>
+                    <svg class="breadcrumb-arrow" width="6px" height="9px">
+                      <use
+                        xlink:href="images/sprite.svg#arrow-rounded-right-6x9"
+                      ></use>
+                    </svg>
+                  </li>
+                  
+                  <li class="breadcrumb-item active" aria-current="page">
+                    Consultant
+                  </li>
+                </ol>
+              </nav>
+            </div>
 <div class="page-header__title"><h1>CONSULTANCY SERVICE IMPORT AND EXPORT</h1>
             </div>
           </div>
@@ -2209,32 +2227,7 @@
                         <p> We do consultancy service for all sort of import and export requirements with those who wish to trade in the global market. We can provide you with the custom taxes prior to your import. This will make you to choose the affordable item to be imported to Sri Lanka without much hassle.&nbsp;</p>
                         <p>We are highly specialized in importation of vehicle from Japan, U.K. and Australia. We have the capacity to advice our clients what is the ideal vehicles to be imported to Sri Lanka to personal use or selling. Since we are a company importing vehicles, we can supply you vehicles to your desire. We always wish our customers makes the correct choice. Make a call to our general line for an appointment for the consultancy.</p>
                       </div>
-                      <div class="view-options__divider"></div>
-                      <div class="view-options__control">
-                        <label for="">Sort By</label>
-                        <div>
-                          <select
-                            class="form-control form-control-sm"
-                            name=""
-                            id=""
-                          >
-                            <option value="">Default</option>
-                            <option value="">Name (A-Z)</option>
-                          </select>
-                        </div>
-                      </div>
-                      <div class="view-options__control">
-                        <label for="">Show</label>
-                        <div>
-                          <select
-                            class="form-control form-control-sm"
-                            name=""
-                            id=""
-                          >
-                            <option value="">12</option>
-                            <option value="">24</option>
-                          </select>
-                        </div>
+                      
                       </div>
                     </div>
                   </div>
@@ -2254,14 +2247,12 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--new"
-                            >
-                              New
-                            </div>
+                         
+                          <div class="product-card__image">
+                            <a href="product.html"
+                              ><img src="images/Services/c1.png" alt=""
+                            /></a>
                           </div>
-                          <div class="product-card__image"> </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
@@ -2491,7 +2482,7 @@
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >Go Exporting is a specialist export consultancy</a
+                                >Go Exporting </a
                               >
                             </div>
                             <div class="product-card__rating">
