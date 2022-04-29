@@ -2014,13 +2014,13 @@
                       ><div
                         class="block-slideshow__slide-image block-slideshow__slide-image--desktop"
                         style="
-                          background-image: url('images/slides/slide-1.jpg');
+                          background-image: url('images/slides/slide3.jpg');
                         "
                       ></div>
                       <div
                         class="block-slideshow__slide-image block-slideshow__slide-image--mobile"
                         style="
-                          background-image: url('images/slides/slide-1-mobile.jpg');
+                          background-image: url('images/slides/slide3-mobile.jpg');
                         "
                       ></div>
                       <div class="block-slideshow__slide-content">
@@ -2039,13 +2039,13 @@
                       ><div
                         class="block-slideshow__slide-image block-slideshow__slide-image--desktop"
                         style="
-                          background-image: url('images/slides/slide-2.jpg');
+                          background-image: url('images/slides/slide2.jpg');
                         "
                       ></div>
                       <div
                         class="block-slideshow__slide-image block-slideshow__slide-image--mobile"
                         style="
-                          background-image: url('images/slides/slide-2-mobile.jpg');
+                          background-image: url('images/slides/slide2-mobile.jpg');
                         "
                       ></div>
                       <div class="block-slideshow__slide-content">
@@ -2064,13 +2064,13 @@
                       ><div
                         class="block-slideshow__slide-image block-slideshow__slide-image--desktop"
                         style="
-                          background-image: url('images/slides/slide-3.jpg');
+                          background-image: url('images/slides/slide1.jpg');
                         "
                       ></div>
                       <div
                         class="block-slideshow__slide-image block-slideshow__slide-image--mobile"
                         style="
-                          background-image: url('images/slides/slide-3-mobile.jpg');
+                          background-image: url('images/slides/slide1-mobile.jpg');
                         "
                       ></div>
                       <div class="block-slideshow__slide-content">
@@ -2084,8 +2084,7 @@
                         <div class="block-slideshow__slide-button">
                           <span class="btn btn-primary btn-lg">Shop Now</span>
                         </div>
-                      </div></a
-                    >
+                      </div></a>
                   </div>
                 </div>
               </div>
@@ -5479,7 +5478,7 @@
             <a href="#" class="block-banner__body"
               ><div
                 class="block-banner__image block-banner__image--desktop"
-                style="background-image: url('images/banners/banner-1.jpg')"
+                style="background-image: url('images/banners/banner1.jpg')"
               ></div>
               <div
                 class="block-banner__image block-banner__image--mobile"
