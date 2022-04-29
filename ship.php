@@ -2243,7 +2243,7 @@
                   data-layout="list"
                   data-with-features="false"
                  >
-                    <div class="products-list__body">
+                 <div class="products-list__body">
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -2254,18 +2254,16 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--new"
-                            >
-                              New
-                            </div>
+                         
+                          <div class="product-card__image">
+                            <a href="product.html"
+                              ><img src="images/Services/S1.webp" alt=""
+                            /></a>
                           </div>
-                          <div class="product-card__image"> </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >USA-INTERNATIONAL SHIPPING COMPANY</a
+                                >USA INTERNATIONAL SHIPPING</a
                               >
                             </div>
                             <div class="product-card__rating">

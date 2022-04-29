@@ -2243,7 +2243,7 @@
                   data-layout="list"
                   data-with-features="false"
                  >
-                    <div class="products-list__body">
+                 <div class="products-list__body">
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -2254,14 +2254,12 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--new"
-                            >
-                              New
-                            </div>
+                         
+                          <div class="product-card__image">
+                            <a href="product.html"
+                              ><img src="images/Services/P1.jpg" alt=""
+                            /></a>
                           </div>
-                          <div class="product-card__image"> </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
@@ -2473,16 +2471,10 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--hot"
-                            >
-                              Hot
-                            </div>
-                          </div>
+                         
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/products/product-2.jpg" alt=""
+                              ><img src="images/Services/P2.png" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
@@ -2697,15 +2689,16 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
+                         
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/products/product-3.jpg" alt=""
+                              ><img src="images/Services/P3.png" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >United Vanlines&nbsp;&nbsp;</a
+                                >United Vanlines</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -2904,7 +2897,6 @@
                           </div>
                         </div>
                       </div>
-                      <div class="products-list__item"> </div>
                       <div class="products-list__item">
                         <div class="product-card">
                           <button class="product-card__quickview" type="button">
@@ -2915,15 +2907,16 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
+                         
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/products/product-5.jpg" alt=""
+                              ><img src="images/Services/P4.png" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
                               <a href="product.html"
-                                >Abans logestic pvt.ltd&nbsp;</a
+                                >Abans logestic pvt.ltd</a
                               >
                             </div>
                             <div class="product-card__rating">
@@ -3152,7 +3145,8 @@
                           </div>
                           <div class="product-card__info">
                             <div class="product-card__name">
-                              <a href="product.html">TWO MEN AND TRUCK PACKING&nbsp;&nbsp;</a>
+                              <a href="product.html">
+                                TWO MEN AND TRUCK PACKING</a>
                             </div>
                             <div class="product-card__rating">
                               <div class="rating">
