@@ -2250,7 +2250,7 @@
                          
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/Services/c1.png" alt=""
+                              ><img src="images/Services/C1.gif" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
@@ -2467,16 +2467,10 @@
                             </svg>
                             <span class="fake-svg-icon"></span>
                           </button>
-                          <div class="product-card__badges-list">
-                            <div
-                              class="product-card__badge product-card__badge--hot"
-                            >
-                              Hot
-                            </div>
-                          </div>
+                          
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/products/product-2.jpg" alt=""
+                              ><img src="images/Services/C1.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
@@ -2696,7 +2690,7 @@
                           </button>
                           <div class="product-card__image">
                             <a href="product.html"
-                              ><img src="images/products/product-3.jpg" alt=""
+                              ><img src="images/Services/C3.jpg" alt=""
                             /></a>
                           </div>
                           <div class="product-card__info">
